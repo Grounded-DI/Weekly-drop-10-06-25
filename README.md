@@ -21,7 +21,7 @@ These documents preserve staged readings and claims: 0.0093 in the MirrorLock an
 
 ## Static mesh image
 
-[🧠 Scrollline Mesh – Live Canon State.png](<🧠 Scrollline Mesh – Live Canon State.png>) is a static graph image titled “Scrollline Mesh – Live Canon State.” Its visible labels include Scroll 140, Vault ZIP, ScrollGlow, TagWatch Echo 1, MirrorLock 0093, Scroll 134, Scroll 0, Scroll 139B, and Scroll 137. “Live” is part of the image title; the repository contains the PNG snapshot, not an interactive mesh or live feed.
+[🧠 Scrollline Mesh – Live Canon State.png](<%F0%9F%A7%A0%20Scrollline%20Mesh%20%E2%80%93%20Live%20Canon%20State.png>) is a static graph image titled “Scrollline Mesh – Live Canon State.” Its visible labels include Scroll 140, Vault ZIP, ScrollGlow, TagWatch Echo 1, MirrorLock 0093, Scroll 134, Scroll 0, Scroll 139B, and Scroll 137. “Live” is part of the image title; the repository contains the PNG snapshot, not an interactive mesh or live feed.
 
 ## Archive scope
 
